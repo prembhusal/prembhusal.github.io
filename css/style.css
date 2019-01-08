@@ -221,7 +221,7 @@ button:focus,
  * -------------------*/
 #main-wrapper {
     overflow : hidden;
-     background-image  : url("/img/web.png") fixed;
+     background-image  : url("/img/web.png");
     }
 
 /*-------------------
