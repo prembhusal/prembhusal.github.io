@@ -63,7 +63,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #FFC107;
+    color              : #33cc33;
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
@@ -379,7 +379,7 @@ button:focus,
     }
 
 .progress-item .progress-bar {
-    background-color : #FFC107;
+    background-color : #33cc33;
     box-shadow       : none;
     text-align       : right;
     }
