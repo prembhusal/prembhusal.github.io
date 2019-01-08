@@ -541,7 +541,7 @@ button:focus,
 
 #status,
 .status-mes {
-    background-image    : url(../img/preloader.svg);
+    background-image    : url(/img/web.png);
     background-position : center;
     background-repeat   : no-repeat;
     height              : 200px;
